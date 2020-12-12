@@ -5,6 +5,7 @@
 
 ## Content
 * Chapter 1. Building Abstractions with Procedures
+	* [Exercise 1.2](https://github.com/kudraem/study-sicp-book-exercises/blob/master/chapter_1/exercise_1_2/solution.scm)
 * Chapter 2. Building Abstractions with Data
 * Chapter 3. Modularity, Objects, and State
 * Chapter 4. Metalinguistic Abstraction
